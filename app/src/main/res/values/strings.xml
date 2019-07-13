@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Implicit_Intent_IntentFilters_Android_Github</string>
+    <string name="button_openMap">Open Map</string>
+    <string name="button_sendText">Send Text</string>
 </resources>
